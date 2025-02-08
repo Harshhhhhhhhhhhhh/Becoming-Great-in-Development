@@ -57,6 +57,18 @@ data from a server or reading a large file) coul
 make the application unresponsive.
    
 
+   **Some js functions**
+_Strings:-> 
+length, indexOf(), lastIndexOf(), slice(), substring(), replace(),
+split(), trim(), toUpperCase(), toLowerCase(), etc.
+
+_Numbers:->
+parseInt(),parseFloat    
+
+_Array:->   
+push(), pop(), shift(), unshift(), splice(), slice(),
+concat(), forEach(), map(), filter(), reduce(), find(), sort()
+
    
 
 

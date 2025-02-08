@@ -58,14 +58,14 @@ make the application unresponsive.
    
 
    **Some js functions**
-_Strings:-> 
+_Strings_:-> 
 length, indexOf(), lastIndexOf(), slice(), substring(), replace(),
 split(), trim(), toUpperCase(), toLowerCase(), etc.
 
-_Numbers:->
+_Numbers_:->
 parseInt(),parseFloat    
 
-_Array:->   
+_Array_:->   
 push(), pop(), shift(), unshift(), splice(), slice(),
 concat(), forEach(), map(), filter(), reduce(), find(), sort()
 
